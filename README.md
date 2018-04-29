@@ -1,2 +1,2 @@
-# Code_Samples
-Sample problems done on Leetcode or HackerRank 
+# Code Samples
+Sample problems done on Leetcode or HackerRank.
