@@ -7,3 +7,7 @@ Sample problems done on Leetcode or HackerRank.
 
 ### Java
 * [Birthday Chocolate (Easy)](https://github.com/tstokvis/Code_Samples/blob/master/Java%26Kotlin/src/BirthdayChocolate.java)
+
+### Python
+
+* [Divisible Sum Pairs (Easy)] (https://github.com/tstokvis/Code_Samples/blob/master/Python/DivisibleSumPairs.py)
