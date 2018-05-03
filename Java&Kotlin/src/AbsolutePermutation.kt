@@ -1,3 +1,5 @@
+// Problem URL: https://www.hackerrank.com/challenges/absolute-permutation/problem
+
 import java.io.*
 import java.math.*
 import java.text.*
