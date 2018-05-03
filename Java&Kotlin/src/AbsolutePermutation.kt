@@ -13,7 +13,7 @@ fun absolutePermutation(n: Int, k: Int): Array<Int> {
     val answers = Array(n) { 0 }
 
     // Need an array to keep track of whether a number has already been used,
-    // so it doesn't get used twice. Since space constraints are not a
+    // so it doesn't get used twice. Since space is not a
     // constraint but time is, create a boolean array of size n to
     // record if an element is used. This way we can check if an element is
     // used in O(1) time instead of using .contains() which is O(n)
